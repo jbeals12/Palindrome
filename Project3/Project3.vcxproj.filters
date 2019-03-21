@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="training.cpp">
+    <ClCompile Include="..\..\..\..\Downloads\cpalindrome.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\palindrome.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
